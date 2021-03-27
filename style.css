@@ -1,0 +1,25 @@
+body {
+    background: url(https://3.bp.blogspot.com/-eHmUgZbN-dc/Ut5kadrdPmI/AAAAAAAAAjA/Eq8tRhISD6c/s1600/sunset_hd_wallpapers.jpg);
+    background-size: cover;
+    color: rgb(235, 141, 19);
+    font-size: 125px;
+    font-family: 'Elephant', Times, serif;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    padding: 150px 300px;
+}
+
+#jam {
+    font-size: 3.0pc;
+}
+
+#tanggal {
+    font-size: 5pc;
+}
+
+#jam,
+#tanggal {
+    text-shadow: 0 10px 10px black;
+    justify-content: center;
+}
